@@ -5,19 +5,19 @@
 const tasks = [
     {
         id: 1,
-        title: "Enviar informe mensual",
-        description: "Revisar las métricas de abril y enviar el documento PDF al equipo de finanzas.",
+        title: "ayudar a rodrigo a su transferencia de genero",
+        description: "Tengo que ayudar a rodrigo a su cambio de genero y yo sere el primero en estrenarlo ",
         status: "completada"
     },
     {
         id: 2,
-        title: "Hacer la compra semanal",
-        description: "Comprar frutas, verduras, leche y café. No olvidar las bolsas reutilizables.",
+        title: "chingarme a vadhir",
+        description: "Lamentablemente me voy a tener que chingar a vadhir por motivo de falta de pago",
         status: "pendiente"
     },
     {
         id: 3,
-        title: "Llamar al dentista",
+        title: "verme con mi famlilia",
         description: "Pedir cita para la revisión anual. Preferiblemente para un martes por la tarde.",
         status: "pendiente"
     },
