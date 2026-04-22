@@ -23,13 +23,13 @@ const tasks = [
     },
     {
         id: 4,
-        title: "Reparar la bicicleta",
-        description: "Ajustar los frenos delanteros y limpiar la cadena antes de la salida del domingo.",
+        title: "raparme a coco",
+        description: "Aparentemente es algo lamentablmentente que me voy a rapar por mi foto de mi cartilla y disparar 20 cartuchos con un fusil de asalto ligero",
         status: "pendiente"
     },
     {
         id: 5,
-        title: "Actualizar currículum",
+        title: "Obtener mi cartilla militar liberada y meterme a telmex",
         description: "Añadir la última certificación de Diseño de Interfaces y revisar los datos de contacto.",
         status: "pendiente"
     }
